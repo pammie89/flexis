@@ -1,4 +1,4 @@
-# Flexis - Built from scratch without a follow along tutorial
+# Flexis - Site Project Independently built from sratch without the help of follow along tutorials
 
 It is a Single Page application build.
 
