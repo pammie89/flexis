@@ -1,5 +1,5 @@
 # Flexis - React Site 
-This is a independantly built application.  I did not use follow along tutorials with this project.  Yepee!
+I did not use follow along tutorials with this project, I built it independently.  Yepee!
 It is a Single Page application build.
 
 ## Languages Used
