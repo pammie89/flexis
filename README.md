@@ -1,5 +1,5 @@
-# Flexis - Site Project Independently built from sratch without the help of follow along tutorials
-
+# Flexis - React Site 
+This is a independantly built application.  I did not use follow along tutorials with this project.  Yepee!
 It is a Single Page application build.
 
 ## Languages Used
