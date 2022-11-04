@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/flexis/static/css/main.42e60340.css",
+    "main.js": "/flexis/static/js/main.f0186934.js",
+    "static/media/banner-1.jpg": "/flexis/static/media/banner-1.a3202c7b829800de573d.jpg",
+    "static/media/project-1.jpg": "/flexis/static/media/project-1.666109b2cbc5516cd933.jpg",
+    "static/media/project-4.jpg": "/flexis/static/media/project-4.6d5299dd1c4389279b85.jpg",
+    "static/media/project-3.jpg": "/flexis/static/media/project-3.965374de0205991035a5.jpg",
+    "static/media/project-2.jpg": "/flexis/static/media/project-2.781996fb645c3ff01f72.jpg",
+    "static/media/nodejs-logo-black-and-white.png": "/flexis/static/media/nodejs-logo-black-and-white.34523405de68a18b6ed8.png",
+    "static/media/mango-logo-black-and-white.png": "/flexis/static/media/mango-logo-black-and-white.ead065561671561e2769.png",
+    "static/media/R.png": "/flexis/static/media/R.ebfd01e509bab1b7f496.png",
+    "index.html": "/flexis/index.html",
+    "main.42e60340.css.map": "/flexis/static/css/main.42e60340.css.map",
+    "main.f0186934.js.map": "/flexis/static/js/main.f0186934.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42e60340.css",
+    "static/js/main.f0186934.js"
+  ]
+}
